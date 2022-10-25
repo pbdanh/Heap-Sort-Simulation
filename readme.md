@@ -6,9 +6,9 @@ Heap Sort Simulation là một chương trình cơ bản sử dụng javafx đ�
 
 ![](/preview/preview3.png)
 
-[Cài đặt]()  
-[Cách sử dụng]()  
-[Thuật toán Heap Sort]()
+[Cài đặt](https://github.com/pbdanh/Heap-Sort-Simulation#c%C3%A0i-%C4%91%E1%BA%B7t)  
+[Cách sử dụng](https://github.com/pbdanh/Heap-Sort-Simulation#c%C3%A1ch-s%E1%BB%AD-d%E1%BB%A5ng)  
+[Thuật toán Heap Sort](https://github.com/pbdanh/Heap-Sort-Simulation#thu%E1%BA%ADt-to%C3%A1n-heap-sort)
 
 ## Cài đặt
 
@@ -20,7 +20,7 @@ Chạy câu lệnh sau để thực thi chương trình
 mvn clean javafx:run
 ```
 
-Hoặc có thể sử dụng IDE Intellij mở thư mục chứa code
+Hoặc có thể sử dụng Intellij IDEA mở thư mục chứa code
 
 Chọn View -> Tool Windows -> Maven để hiện lên công cụ Maven
 
